@@ -1,0 +1,2 @@
+http://31.193.131.71/order/OrderExample.php
+http://31.193.131.71/order/callback.php?a=01&u=mcdo&p=mcdo&m=Accepted

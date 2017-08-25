@@ -1,0 +1,1 @@
+#AC001*1*10003*12;Chicken;13.27;1;Cheese Burger;13.87; ;;No Pickles;Extra Mayo;;23.5;1;Rice;13;1;Burger King;15.86;12;Bread;13.27;Extra Sesame;;5;*5*1;38.1;4;Ehab;Addresss of the Customer;15:17 03-08-2017;1002;7;cod;00201955915859;*Comments1%%    comments 2 %%    comments 3#
